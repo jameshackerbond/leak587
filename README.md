@@ -1,2 +1,2 @@
-# ibchunserver
-Merged some shit from paper build 1618 of 1.12.2 and then some old code
+# I ran 800 players with 20 tps with the right configs, plugins, ram and optimize flags
+I call it ibchunserver because idk what name to give it
